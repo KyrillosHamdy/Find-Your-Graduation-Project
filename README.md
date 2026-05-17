@@ -1,4 +1,4 @@
-# GP Advisor
+# Find Your Graduation Project
 
 Gemini-powered graduation project advisor for CS students.
 
