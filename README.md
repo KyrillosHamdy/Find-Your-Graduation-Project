@@ -6,9 +6,7 @@ The app takes one student profile form and returns five grounded graduation proj
 
 ## Demo
 
-<video src="videos/Find%20your%20graduation%20project.mp4" controls width="100%">
-  Your browser does not support embedded video. Watch the demo video at `videos/Find your graduation project.mp4`.
-</video>
+[Watch the demo video](https://drive.google.com/file/d/1oNodiN7wpiOPQxOgC9PzllLrGsXFqolZ/view?usp=sharing)
 
 ---
 
