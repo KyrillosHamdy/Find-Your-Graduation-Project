@@ -4,6 +4,12 @@ Gemini-powered graduation project advisor for CS students.
 
 The app takes one student profile form and returns five grounded graduation project ideas. Each idea includes a suggested or arXiv-verified research paper, a realistic timeline, a recommended tech stack, and an expandable What / Why / How blueprint.
 
+## Demo
+
+<video src="videos/Find%20your%20graduation%20project.mp4" controls width="100%">
+  Your browser does not support embedded video. Watch the demo video at `videos/Find your graduation project.mp4`.
+</video>
+
 ---
 
 ## Stack
