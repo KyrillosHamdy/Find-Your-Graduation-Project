@@ -206,7 +206,8 @@ You need two terminals: one for the backend and one for the frontend.
 
 ```powershell
 cd "D:\ML\project advisor\files\backend"
-.venv\Scripts\activate -m uvicorn main:app --reload --port 8000
+.venv\Scripts\activate 
+uvicorn main:app --reload --port 8000
 ```
 
 Backend URLs:
