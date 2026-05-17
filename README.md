@@ -393,4 +393,3 @@ npm run dev
 - Sessions are stored in memory. Restarting the backend clears all sessions and cached blueprints.
 - The Gemini free tier can rate-limit requests.
 - arXiv validation is best-effort, so a paper can be useful even if it is shown as suggested instead of verified.
-- Do not commit real API keys. Keep `GEMINI_API_KEY` in `.env`.
